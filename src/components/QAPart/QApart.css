@@ -1,0 +1,58 @@
+.qa_container {
+    max-width: 1250px;
+    width: 100%;
+    margin: 0px auto;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.qa_info {
+    padding: 40px 30px;
+}
+
+.qa_info .qa_title {
+    font-size: 36px;
+}
+
+.qa {
+    padding: 40px 0;
+    border-bottom: 1px solid rgba(17, 17, 17, 0.1);
+}
+
+.qa:last-child {
+    border-bottom: none;
+}
+
+.qa_qus {
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.qa_ans {
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .qa_container {
+        padding: 0 20px;
+    }
+
+    .qa_info {
+        padding: 30px 10px;
+    }
+
+    .qa_info .qa_title {
+        font-size: 22px;
+    }
+
+    .qa_qus {
+        font-size: 18px;
+    }
+
+    .qa_ans {
+        font-size: 16px;
+    }
+
+}

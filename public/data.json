@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "author_name": "John Smith",
+        "blog_title": "Vlogging 101: A Beginner's Guide to Starting Your Own Vlog",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/free-photo/front-view-young-girl-recording-personal-blog_23-2148586340.jpg?w=900&t=st=1680195256~exp=1680195856~hmac=77e23d5362a780c207aa5a112215154bffd200eefdc39403300bb0dda76c4d46",
+            "author_image": "images/user.jpg"
+        },
+        "read_time": 10,
+        "publish_date": "Jan 01 (6 month ago)"
+    },
+    {
+        "id": 2,
+        "author_name": "Jane Doe",
+        "blog_title": "What Equipment Do You Need to Start Vlogging? A Comprehensive Guide",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/free-photo/nobody-empty-desk-with-streaming-equipment-broadcast-live-conversation-social-media-no-people-space-with-podcast-station-microphone-headphones-sound-production_482257-42287.jpg?w=900&t=st=1680195336~exp=1680195936~hmac=edf9e35be736015fefe2532f158e091a75dc4cf29181b61e3da4ff507bb9f1fb",
+            "author_image": "images/user1.png"
+        },
+        "read_time": 8,
+        "publish_date": "Feb 15 (2 month ago)"
+    },
+    {
+        "id": 3,
+        "author_name": "Mike Johnson",
+        "blog_title": "How to Choose Your Vlogging Niche and Stand Out from the Crowd",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/free-photo/young-adult-woman-traveling-vlogging-social-media-concept_53876-14739.jpg?w=996&t=st=1680195382~exp=1680195982~hmac=8300ba1a239f1e296a7fea0c98eef415a9087c9dc2c0a4ef78aa8c8b421f70ea",
+            "author_image": "images/user2.jpg"
+        },
+        "read_time": 8,
+        "publish_date": "Mar 10 (3 month ago)"
+    },
+    {
+        "id": 4,
+        "author_name": "Sarah Lee",
+        "blog_title": "Editing Your Vlog: Tips and Tricks for Beginners",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/free-photo/man-recording-studio-music-production_1303-20398.jpg?w=900&t=st=1680195712~exp=1680196312~hmac=ccb61372179458889f8777ee0bf39a5a54cc5c98c1c5e5ef71cdb84f239f1c62",
+            "author_image": "images/user3.jpg"
+        },
+        "read_time": 12,
+        "publish_date": "Apr 22 (2 month ago)"
+    },
+    {
+        "id": 5,
+        "author_name": "David Kim",
+        "blog_title": "How to Grow Your Vlog Audience",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/premium-photo/happy-diverse-friends-having-fun-streaming-online-using-computer-laptop-smartphone-app-main-focus-african-man-face_166273-1908.jpg?w=900",
+            "author_image": "images/user.jpg"
+        },
+        "read_time": 9,
+        "publish_date": "May 05 (1 month ago)"
+    },
+    {
+        "id": 6,
+        "author_name": "Emily Lee",
+        "blog_title": "Vlogging on a Budget: How to Save Money and Still Create Great Content",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/free-photo/happy-young-blogger-using-selfie-stick-talking-phone_23-2148538872.jpg?w=900&t=st=1680195607~exp=1680196207~hmac=19d7ce102eb9fa15a2dce5fd49697ac123121df3cb915c993bbb7a970481d0e7",
+            "author_image": "images/user1.png"
+        },
+        "read_time": 7,
+        "publish_date": "Jun 30 (5 days ago)"
+    }
+]

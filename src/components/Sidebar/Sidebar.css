@@ -1,0 +1,69 @@
+.sidebar_container {
+    margin-bottom: 60px;
+    position: sticky;
+    top: 0;
+}
+
+.sidebar_container .spent_time {
+    margin: 40px 0 25px;
+    width: 100%;
+}
+
+.sidebar_container .spent_time p {
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    border: 1px solid #F60001;
+    /* background: #f7e4e4; */
+}
+
+.bookmark_container {
+    padding: 30px;
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 10px;
+}
+
+.bookmark_container h2 {
+    font-size: 22px;
+}
+
+.bookmard_text {
+    margin: 16px 0;
+}
+
+.bookmard_text p {
+    font-size: 18px;
+    padding: 20px;
+    background: white;
+    line-height: 25px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .sidebar_container .spent_time {
+        margin: 10px 0 20px;
+    }
+
+    .sidebar_container .spent_time p {
+        padding: 20px 10px;
+        font-size: 20px;
+    }
+
+    .bookmark_container {
+        padding: 20px 15px;
+    }
+
+    .bookmark_container h2 {
+        font-size: 20px;
+    }
+
+    .bookmard_text p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+}
